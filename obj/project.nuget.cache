@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0d2aRSkD+jr4qagw2Mrh96GAH0glHZ6DIKvj/8CMkvtNJK3A4E+P3gov2h/BbQolpOofDDQblQsr4nadyxI9Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\albion-tools\\albion-tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\packetdotnet\\1.4.6\\packetdotnet.1.4.6.nupkg.sha512",
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\photonpackageparser\\4.1.0\\photonpackageparser.4.1.0.nupkg.sha512",
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\sharppcap\\6.2.5\\sharppcap.6.2.5.nupkg.sha512",
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Duc_Tran\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

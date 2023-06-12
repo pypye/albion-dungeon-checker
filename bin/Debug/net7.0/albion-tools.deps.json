@@ -1,0 +1,112 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "albion-tools/1.0.0": {
+        "dependencies": {
+          "PhotonPackageParser": "4.1.0",
+          "SharpPcap": "6.2.5"
+        },
+        "runtime": {
+          "albion-tools.dll": {}
+        }
+      },
+      "PacketDotNet/1.4.6": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/PacketDotNet.dll": {
+            "assemblyVersion": "1.4.6.0",
+            "fileVersion": "1.4.6.0"
+          }
+        }
+      },
+      "PhotonPackageParser/4.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/PhotonPackageParser.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          },
+          "lib/netstandard2.0/Protocol16.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "SharpPcap/6.2.5": {
+        "dependencies": {
+          "PacketDotNet": "1.4.6",
+          "System.Memory": "4.5.5",
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpPcap.dll": {
+            "assemblyVersion": "6.2.5.0",
+            "fileVersion": "6.2.5.0"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "albion-tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PacketDotNet/1.4.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-alTw0mrKv2wDbF3jnXl4yoNqSHu4atDrPC3SMlMI8UaaLI4QuULga99SAUg+9V9y9haYBLu5EbMLtOza4O7XnA==",
+      "path": "packetdotnet/1.4.6",
+      "hashPath": "packetdotnet.1.4.6.nupkg.sha512"
+    },
+    "PhotonPackageParser/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mZ2MJHdYnmnvmFveEBgIH8VbXk/eswsUDZhPOY2nJHFRaEPxBZJJoWLjjv1eH2+hJJMffudj/OcL9D4jAAHvdg==",
+      "path": "photonpackageparser/4.1.0",
+      "hashPath": "photonpackageparser.4.1.0.nupkg.sha512"
+    },
+    "SharpPcap/6.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-irLFbxr6Ks6T6UaWqTxlhGF1nyJstTc4pVUOj8mlkPlQdAdP34+1h0yekcyiCc3ewZ5P4sNrvpbkc4SwcIksiw==",
+      "path": "sharppcap/6.2.5",
+      "hashPath": "sharppcap.6.2.5.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    }
+  }
+}
